@@ -2,5 +2,5 @@ package core;
 
 public class TestYann {
 
-	// test commit pat
+	// test commit patrick
 }
